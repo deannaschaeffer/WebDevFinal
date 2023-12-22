@@ -1,0 +1,51 @@
+.surroundCategories {
+  width: 100%;
+  display: inline-flex;
+  justify-content: space-around;
+  padding-top: 50px;
+}
+
+.workoutPage {
+  text-align: center;
+}
+
+.button {
+  padding-top: 15px;
+  width: 175px;
+  height: 150px;
+  background-color: lightblue;
+  font-size: 30px;
+  border-radius: 8%;
+}
+
+.exercise {
+  width: 175px;
+  font-size: 15px;
+  text-align: center;
+}
+
+.inputExercise {
+  width: 75%;
+  display: inline-flex;
+  justify-content: space-evenly;
+}
+
+.filter {
+  width: 50%;
+  display: inline-flex;
+  justify-content: space-around;
+}
+
+.caret {
+  margin-top: 20px;
+  margin-left: 130px;
+  width: 12px;
+}
+
+.buttonWords {
+  margin-bottom: -2px;
+}
+
+.add {
+  padding-top: 25px;
+}

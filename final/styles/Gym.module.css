@@ -1,0 +1,27 @@
+.gym {
+  text-align: center;
+}
+.surroundDisplay {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.display {
+  width: 500px;
+  background-color: lightblue;
+  border-radius: 3%;
+  border: 1px solid black;
+}
+
+.image {
+  border-radius: 5%;
+}
+
+.search {
+  padding-top: 10px;
+}
+
+.gymSearch {
+  padding-top: 10px;
+}
